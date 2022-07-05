@@ -1,12 +1,3 @@
-/*console.log("we made it")
-
-
-function returnSmallestInteger(smallestVal) {
-    return Math.min.apply(null, smallestVal)
-  }
-  console.log(returnSmallestInteger([2, 4, 40, 76, 88, 98, 1, -1]))
-  */
-
   // Keep Hydrated!
   // Nathan loves cycling.
 
@@ -26,7 +17,7 @@ function returnSmallestInteger(smallestVal) {
 
 /* P: 
 function numbersOfLitres(timeCycled) {
-    return Math.floor()
+    return
 }
 numbersOfLitres();
 */
