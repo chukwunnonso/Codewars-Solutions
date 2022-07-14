@@ -1,4 +1,5 @@
-// Is he going to survive
+// Is he going to survive?
+
 // DESCRIPTION:
 //A hero is on his way to the castle to complete his mission.However,
 // he's been told that the castle is surrounded with a couple of powerful dragons!
@@ -9,7 +10,7 @@
 //  Return True if yes, False otherwise:)
 
 //P: we have two parameters both with positive integers. Would it be possible to
-//work with negative numbers? or strings?
+//work with negative integers? or strings?
 
 //R: console.log(funcName(22,11), true)
 // console.log(funcName(22,15), false)
