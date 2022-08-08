@@ -14,9 +14,11 @@ console.log(fakebinary('63915'), 10101)
 E: '12' ----> 00
     92 ----> 10
 
-our function should have one parameter. we will split the stri n g of numbers using split. A friendly reminder, split works only on strings
+P: our function should have one parameter. we will split the string of numbers using split. A friendly reminder, split works only on strings
  we run through the splitted array using map method with our ternary
 */
+
+
 function fakeBinary(x) {
   return x.split('').map((y => y < 5 ? 0 : 1)).join('')
 }
